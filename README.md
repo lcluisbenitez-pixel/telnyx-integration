@@ -1,14 +1,19 @@
 # Telnyx Integration
 
-This project is a simple implementation to test Telnyx APIs for:
+This project tests Telnyx API capabilities for communication automation.
 
-- Voice calls
-- Messaging (SMS)
-- Webhooks handling
+## Features
+- Send SMS
+- Handle webhooks
+- Test API authentication
 
-## Tech Stack
+## Setup
+1. Add your Telnyx API Key
+2. Run the script
+
+## Tech
 - Node.js
-- REST APIs
+- REST API
 
-## Purpose
-Testing and learning Telnyx capabilities for automation and communication solutions.
+## Status
+In progress
